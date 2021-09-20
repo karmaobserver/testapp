@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("TEST", "TEST")
         Log.d("Feature2", "Feature2")
+        Log.d("Feature2", "Second change")
     }
 }
